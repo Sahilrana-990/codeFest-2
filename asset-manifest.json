@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codeFest-2/static/css/main.ce199de6.css",
+    "main.js": "/codeFest-2/static/js/main.c816d691.js",
+    "static/js/787.c2c69741.chunk.js": "/codeFest-2/static/js/787.c2c69741.chunk.js",
+    "index.html": "/codeFest-2/index.html",
+    "main.ce199de6.css.map": "/codeFest-2/static/css/main.ce199de6.css.map",
+    "main.c816d691.js.map": "/codeFest-2/static/js/main.c816d691.js.map",
+    "787.c2c69741.chunk.js.map": "/codeFest-2/static/js/787.c2c69741.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce199de6.css",
+    "static/js/main.c816d691.js"
+  ]
+}
