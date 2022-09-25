@@ -45,7 +45,7 @@ function App() {
         <div className="textheader">
           <div id="text">
             <h1>
-              With The Use Of Hostinger Your
+              With The Use Of Hostinger Your website
               <br />
               Become <b>Popular</b>
             </h1>
